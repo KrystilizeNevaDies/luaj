@@ -1,4 +1,4 @@
-# This is a fork!
+# This is a fork used for Minestom!!!
 <div style="border: 1px dotted red; margin: 1.em 0.5em; font-weight: bold; color: red;">
 This repository has been forked from the original CVS sources of Luaj.
 The commit history has been converted to make sure that the original work of
